@@ -1,1 +1,1 @@
-# simple_shell
+Team project on shell programming and solutions

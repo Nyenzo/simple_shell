@@ -6,4 +6,4 @@
     * Header file for the shell team project
 */
 
-#endif/*SHELL_H*/
+#endif /*SHELL_H*/

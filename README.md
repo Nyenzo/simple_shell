@@ -1,1 +1,1 @@
-Team project on shell programming and solutions
+shell commands and solutions
